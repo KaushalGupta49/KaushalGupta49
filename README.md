@@ -25,6 +25,7 @@ I am a passionate B.Tech CSE student at Dronacharya Group of Instituitions, driv
  ## 🏆 Achievements
 - 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 - 🏆 2nd place in Visual's Reasoning in College's Techfest (Dron Pratibibm).
+- 🏆 Senior Maths Quiz Champ in InterSchool Maths Quiz Championship.
 
 
 ## 📬 Get in Touch
